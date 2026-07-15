@@ -7,16 +7,16 @@ import numpy as np
 # ========== Load All Datasets ==========
 
 # 1. GE Turbine Power Curve.csv (Main dataset with all features)
-ge_data = pd.read_csv('data/wind_turbine_data.csv')
+ge_data = pd.read_csv('T1.csv')
 print(f"GE Data shape: {ge_data.shape}")
 
 # 2. Turbine_Data.csv (Has many features but mostly empty in your sample)
-turbine_data = pd.read_csv('data/Turbine_Data.csv')
-print(f"Turbine Data shape: {turbine_data.shape}")
+#turbine_data = pd.read_csv('data/Turbine_Data.csv')
+#print(f"Turbine Data shape: {turbine_data.shape}")
 
 # 3. Power Curve Reference (wind_turbine_data.csv - reference lookup table)
-power_curve = pd.read_csv('data/GE Turbine Power Curve.csv')
-print(f"Power Curve shape: {power_curve.shape}")
+#power_curve = pd.read_csv('data/GE Turbine Power Curve.csv')
+#print(f"Power Curve shape: {power_curve.shape}")
 
 # ========== Data Preparation ==========
 

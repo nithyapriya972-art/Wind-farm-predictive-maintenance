@@ -141,7 +141,7 @@ st.divider()
 st.markdown("### 📈 Simulated Real-Time Sensor Trends (Last 24 Hours)")
 
 # Generate simulated time-series data
-time_points = pd.date_range(end=datetime.datetime.now(), periods=24, freq='H')
+time_points = pd.date_range(end=datetime.datetime.now(), periods=24, freq='h')
 simulated_data = pd.DataFrame({
     'Time': time_points,
     'Wind Speed': np.random.normal(wind_speed, 2, 24).clip(0, 25),
