@@ -268,7 +268,7 @@ This project is licensed under the MIT License - see below for details:
 ```
 MIT License
 
-Copyright (c) 2025 Team TECH_TONIC
+Copyright (c) 2025 Nithya Priya
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -286,10 +286,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ```
 
 ---
-
-## 👥 Team TECH_TONIC
-
-## 👥 Team
 
 **Project Lead & Developer:** Nithya Priya
 
