@@ -258,6 +258,52 @@ pytest tests/
 # Format code
 black app.py train_model.py
 ```
+# 📸 Project Screenshots
+
+## 🏠 Dashboard Overview
+The main dashboard provides real-time turbine health monitoring, failure risk prediction, and current sensor readings.
+
+<img width="860" height="354" alt="image" src="https://github.com/user-attachments/assets/73ab179d-244e-4285-9c80-5099abd449df" />
+
+---
+
+## 📈 Real-Time Sensor Trends
+Visualizes wind speed, power output, and predicted failure risk over the last 24 hours.
+
+<img width="1308" height="599" alt="image" src="https://github.com/user-attachments/assets/3952c755-9654-4422-94ae-d9d827f055d1" />
+
+
+---
+
+## 🗺️ Geographic Monitoring Dashboard
+Interactive map displaying turbine locations, risk levels, and monitoring controls.
+
+<img width="1308" height="599" alt="image" src="https://github.com/user-attachments/assets/a3c2a380-bf54-43ac-a348-4bed2e9670b0" />
+
+
+---
+
+## ⚡ Power Curve Analysis
+Compares the theoretical power curve with the current operating point of the wind turbine.
+
+<img width="1308" height="599" alt="image" src="https://github.com/user-attachments/assets/6310fd27-46bb-4782-a4b8-e4d4be95ef82" />
+
+
+---
+
+## 🔥 Turbine Component Risk Heatmap
+Heatmap showing the predicted risk percentage across different turbine components.
+
+<img width="1308" height="599" alt="image" src="https://github.com/user-attachments/assets/267483dc-1bee-4843-b6c6-608b51b764d7" />
+
+---
+
+## 🌐 3D Operating Conditions
+Interactive 3D visualization of wind speed, power output, wind direction, and predicted failure risk.
+
+<img width="1332" height="579" alt="image" src="https://github.com/user-attachments/assets/cd632de1-1732-43d7-adda-663da43cb955" />
+
+---
 
 ---
 
