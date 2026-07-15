@@ -289,9 +289,24 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 👥 Team TECH_TONIC
 
-**Project Lead & Developer**: Harika Murali  
-**Hackathon**: Cypher 2025  
-**Contact**: [GitHub](https://github.com/HarikaMurali)
+## 👥 Team
+
+**Project Lead & Developer:** Nithya Priya
+
+**Project:** AI-Powered Wind Farm Predictive Maintenance Dashboard
+
+**GitHub:** https://github.com/nithyapriya972-art
+
+---
+
+## 📞 Support
+
+For questions, issues, or suggestions:
+
+* 🐛 Open an Issue
+* 💬 Start a Discussion
+* 📧 Contact via GitHub profile: https://github.com/nithyapriya972-art
+
 
 ---
 
@@ -303,13 +318,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 - Cypher Hackathon organizers for the opportunity
 
 -----
-
-## 📞 Support
-
-For questions, issues, or suggestions:
-- 🐛 [Open an Issue](https://github.com/HarikaMurali/Wind_Farm/issues)
-- 💬 [Start a Discussion](https://github.com/HarikaMurali/Wind_Farm/discussions)
-- 📧 Contact via GitHub profile
 
 ---
 
