@@ -270,7 +270,7 @@ The main dashboard provides real-time turbine health monitoring, failure risk pr
 ## 📈 Real-Time Sensor Trends
 Visualizes wind speed, power output, and predicted failure risk over the last 24 hours.
 
-<img width="1308" height="599" alt="image" src="https://github.com/user-attachments/assets/3952c755-9654-4422-94ae-d9d827f055d1" />
+<img width="1308" height="599" alt="image" src="https://github.com/user-attachments/assets/233d05ea-190c-4bae-a484-4255b7f4b54a" />
 
 
 ---
@@ -278,7 +278,7 @@ Visualizes wind speed, power output, and predicted failure risk over the last 24
 ## 🗺️ Geographic Monitoring Dashboard
 Interactive map displaying turbine locations, risk levels, and monitoring controls.
 
-<img width="1308" height="599" alt="image" src="https://github.com/user-attachments/assets/a3c2a380-bf54-43ac-a348-4bed2e9670b0" />
+<img width="1308" height="597" alt="image" src="https://github.com/user-attachments/assets/0fa8c033-ed68-4362-9ffb-59edb217803c" />
 
 
 ---
@@ -286,15 +286,13 @@ Interactive map displaying turbine locations, risk levels, and monitoring contro
 ## ⚡ Power Curve Analysis
 Compares the theoretical power curve with the current operating point of the wind turbine.
 
-<img width="1308" height="599" alt="image" src="https://github.com/user-attachments/assets/6310fd27-46bb-4782-a4b8-e4d4be95ef82" />
+<img width="981" height="503" alt="image" src="https://github.com/user-attachments/assets/c2bd74ea-9972-4922-929c-3556f0785e0d" />
 
-
----
 
 ## 🔥 Turbine Component Risk Heatmap
 Heatmap showing the predicted risk percentage across different turbine components.
 
-<img width="1308" height="599" alt="image" src="https://github.com/user-attachments/assets/267483dc-1bee-4843-b6c6-608b51b764d7" />
+<img width="979" height="486" alt="image" src="https://github.com/user-attachments/assets/c054b5d9-2755-4e5c-8adb-0588f6ce276a" />
 
 ---
 
